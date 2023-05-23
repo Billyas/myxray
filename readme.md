@@ -13,7 +13,7 @@ sh -c "$(wget https://raw.githubusercontent.com/Billyas/myxray/main/s.sh -O -)"
 
 ## add warp
 ```bash
-wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/warp.sh && bash warp.sh
+wget -N https://raw.githubusercontent.com/Billyas/myxray/main/warp.sh && bash warp.sh
 ```
 
 ## Thanks
